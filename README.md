@@ -17,5 +17,10 @@ This work was inspired by [OPPM](https://oppmi.com/) and developed further with 
 4. Sections to cover project external dependencies, risks, issues, summary and forecast
 5. Graphs and sparklines provided with linked data entry tables
 
+### Request:
+
+I'm looking at constantly improving this, if you've any suggestions or comments, link up with me on [LinkedIn](https://www.linkedin.com/in/ranaalisaeed/).
+
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
